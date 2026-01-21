@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_MainMenu/MainMenu.unity
+    guid: 9dd37dd064bbebe40bc7bd5224496b5c
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
@@ -24,8 +27,182 @@ EditorBuildSettings:
     path: Assets/ejercicios/66/66.unity
     guid: 9d9073427ef9f6a44a17a4a3538d0066
   - enabled: 1
+    path: Assets/ejercicios/1/1.unity
+    guid: cdafb810b7720914da457c3e76d42b40
+  - enabled: 1
+    path: Assets/ejercicios/2/2.unity
+    guid: a25b32e5e187068498550ed937c3a9b8
+  - enabled: 1
+    path: Assets/ejercicios/4/4.unity
+    guid: ff5699de3b27f73499ff80e1695c9bc5
+  - enabled: 1
+    path: Assets/ejercicios/5/5.unity
+    guid: 545390f74e645a34da6abded763eefc8
+  - enabled: 1
+    path: Assets/ejercicios/7/7.unity
+    guid: ee9f1ebef2c9272478f5b0bfb8e4d487
+  - enabled: 1
+    path: Assets/ejercicios/6/6.unity
+    guid: 9c39896230f57bd489f2e93c03543e0e
+  - enabled: 1
+    path: Assets/ejercicios/3/3.unity
+    guid: 6450f7899ec9a974b9e95bae4db3f113
+  - enabled: 1
+    path: Assets/ejercicios/8/8.unity
+    guid: 5fc61ff13012cd34b8d86fd3ccfcf0cb
+  - enabled: 1
+    path: Assets/ejercicios/9/9.unity
+    guid: 95124531ea78fe4499388273a3f6e4c3
+  - enabled: 1
+    path: Assets/ejercicios/12/12.unity
+    guid: 6f96d6fa4017f1a49b2b7b2a7d1bd12e
+  - enabled: 1
+    path: Assets/ejercicios/19/19.unity
+    guid: 49371abfa6980844abc5d28966be82a8
+  - enabled: 1
+    path: Assets/ejercicios/10/10.unity
+    guid: 2907082f7729eb2459b35c78674507e3
+  - enabled: 1
+    path: Assets/ejercicios/24/24.unity
+    guid: 0784c9a0a3ea1174bb7a23c7306fde97
+  - enabled: 1
+    path: Assets/ejercicios/28/28.unity
+    guid: 34e5c08d7953fe041b1b733613d3d39e
+  - enabled: 1
+    path: Assets/ejercicios/26/26.unity
+    guid: f66c66e22333dd349b0de31ac94c3dc7
+  - enabled: 1
+    path: Assets/ejercicios/25/25.unity
+    guid: de7890df9372aae4db69f54b103de488
+  - enabled: 1
+    path: Assets/ejercicios/22/22.unity
+    guid: ba8687525f95dbd4aa2e7ee3d89a375a
+  - enabled: 1
+    path: Assets/ejercicios/23/23.unity
+    guid: 5e668040589c7204da7197a86fbc9277
+  - enabled: 1
+    path: Assets/ejercicios/20/20.unity
+    guid: 1b5c5785dc50aed4984b3e024734da5e
+  - enabled: 1
+    path: Assets/ejercicios/21/21.unity
+    guid: a7653a0cd99f931469eeb49300703ab4
+  - enabled: 1
+    path: Assets/ejercicios/13/13.unity
+    guid: f2ba5739ea9fad1429a9cc63c6086f33
+  - enabled: 1
+    path: Assets/ejercicios/15/15.unity
+    guid: 51420a88218179d46a9d819b0820e18e
+  - enabled: 1
+    path: Assets/ejercicios/16-17-18/16.unity
+    guid: 9f950321fcc13cc4e8f50d88a8ba09dd
+  - enabled: 1
     path: Assets/ejercicios/66/66_blue.unity
     guid: a2beabf7b2071424dbd2ed8dad7e5f5a
+  - enabled: 1
+    path: Assets/ejercicios/31/31.unity
+    guid: 32ae8a3ecb0ee724abef6c62ac928ece
+  - enabled: 1
+    path: Assets/ejercicios/32/32.unity
+    guid: 8487b729c9d12334c88b8e2fc7b219b1
+  - enabled: 1
+    path: Assets/ejercicios/42/42.unity
+    guid: 21552d9d6bb68df4dafaa7d882ad82ef
+  - enabled: 1
+    path: Assets/ejercicios/48/48.unity
+    guid: ceb5b19f5691c22478b2306acea1ae10
+  - enabled: 1
+    path: Assets/ejercicios/47/47.unity
+    guid: 26030c5072a88d849802d1a617879104
+  - enabled: 1
+    path: Assets/ejercicios/46/46.unity
+    guid: d69469b4b70a3f145a298c0b618a2e19
+  - enabled: 1
+    path: Assets/ejercicios/45/45.unity
+    guid: bc0f6685a9b175b479a80498bc61ca0c
+  - enabled: 1
+    path: Assets/ejercicios/44/44.unity
+    guid: 455974e315566b44fad75a88e78c9b4b
+  - enabled: 1
+    path: Assets/ejercicios/55/55.unity
+    guid: b524a733d9994d24caa7323b80ba6fad
+  - enabled: 1
+    path: Assets/ejercicios/56/41.unity
+    guid: a1dea9e79321b164196ce6be8c56e4ea
+  - enabled: 1
+    path: Assets/ejercicios/43/43.unity
+    guid: 8849999883e11694098cce59bcaf189f
+  - enabled: 1
+    path: Assets/ejercicios/54/54.unity
+    guid: dae073fb87dfb8b4298024b7acd9a80f
+  - enabled: 1
+    path: Assets/ejercicios/53/53.unity
+    guid: 099a8dcbea5712245895ff1c36f40079
+  - enabled: 1
+    path: Assets/ejercicios/52/52.unity
+    guid: 6eca377dc32a9164aa4118fcb79076f3
+  - enabled: 1
+    path: Assets/ejercicios/60/60.unity
+    guid: ef8a6cb8b62b03144a6a09ed90533c91
+  - enabled: 1
+    path: Assets/ejercicios/65/65.unity
+    guid: af03ac6636175194bb234a3c48a3ef79
+  - enabled: 1
+    path: Assets/ejercicios/62/62.unity
+    guid: 2dfa7bfe91e552944bd792a0d8dd486b
+  - enabled: 1
+    path: Assets/ejercicios/64/64.unity
+    guid: 1fc0b78cf572edc48bc3576b54952cd5
+  - enabled: 1
+    path: Assets/ejercicios/63/63.unity
+    guid: 807bd8fdbbe149046ab60fd0713402a5
+  - enabled: 1
+    path: Assets/ejercicios/61/61.unity
+    guid: 017af160b7a971c42ac7b733dc8703f6
+  - enabled: 1
+    path: Assets/ejercicios/59/59.unity
+    guid: 591e91f8a63270a43b82fe42bf615f81
+  - enabled: 1
+    path: Assets/ejercicios/49-50/49-50.unity
+    guid: a6c2416b3ca250547b4351fb4fe23e0a
+  - enabled: 1
+    path: Assets/ejercicios/51/51.unity
+    guid: 8879c74569f1f60448f14cc15c1a9112
+  - enabled: 1
+    path: Assets/ejercicios/58/58.unity
+    guid: 746555794d7662a4e9922da94b083947
+  - enabled: 1
+    path: Assets/ejercicios/40/40.unity
+    guid: 53e1b085845a7864d9160ea5d8e0c864
+  - enabled: 1
+    path: Assets/ejercicios/41/41.unity
+    guid: 9af2adb1ec2a8cc4e8657439e3a3afe0
+  - enabled: 1
+    path: Assets/ejercicios/39/39.unity
+    guid: af80785d9f2d2bf4fa24e6864e33226e
+  - enabled: 1
+    path: Assets/ejercicios/36/36.unity
+    guid: 1d88a52dd58cb3f4f8b40ff4bfc2c34d
+  - enabled: 1
+    path: Assets/ejercicios/38/38.unity
+    guid: 062093abcbff60d4aa2f5602891c43df
+  - enabled: 1
+    path: Assets/ejercicios/37/37.unity
+    guid: 9026dd4817f61fd4691bc06bdfc54f98
+  - enabled: 1
+    path: Assets/ejercicios/35/35.unity
+    guid: 7470480931d11d844814280a030fe787
+  - enabled: 1
+    path: Assets/ejercicios/34/34.unity
+    guid: a9bd848027c265446ad9d6f152ecc1e9
+  - enabled: 1
+    path: Assets/ejercicios/33/33.unity
+    guid: fbc1ca862ee3e90429a4e9c100904b95
+  - enabled: 1
+    path: Assets/ejercicios/30/30.unity
+    guid: a166b6362115be04ca7c105a8826e50d
+  - enabled: 1
+    path: Assets/ejercicios/29/29.unity
+    guid: c0efe08a7f5525c45b597bb72571c45c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
