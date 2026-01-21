@@ -14,6 +14,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ejercicios/66/66_red.unity
     guid: 3dc977b4f34793d4192b65577768f1a7
+  - enabled: 1
+    path: Assets/ejercicios/67/e67_red.unity
+    guid: 4885826701ab2ec4280a51aa5180a568
+  - enabled: 1
+    path: Assets/ejercicios/67/e67_blue.unity
+    guid: cf590c142dcdd8942946424786f15bca
   - enabled: 0
     path: Assets/ejercicios/66/66.unity
     guid: 9d9073427ef9f6a44a17a4a3538d0066
